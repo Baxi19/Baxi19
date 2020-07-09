@@ -12,10 +12,10 @@
 ## Skills
 
 **Medium level** <br>
-Java, SQL Server, Git, PostgreSQL, Python, C#, Docker.
+Java, SQL Server, Git, PostgreSQL, Python, C#, JPA, Docker.
 
 **Beginner level** <br>
-C, JPA, Hibernate, Spring Boot, Angular, Dart, SQL, Linux, CSS, JavaScript, HTML, Lenguaje R, Node, Vaddin, Arduino, Racket, Prolog.
+C, Spring Boot, Angular, Dart, SQL, Linux, Hibernate, CSS, JavaScript, HTML, TypeScript, Lenguaje R, Node, Vaddin, Arduino, Racket, Prolog, TSQL, Assembly.
 
 
 ## Education
