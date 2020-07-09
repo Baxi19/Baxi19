@@ -4,7 +4,7 @@
 
 **Name:** Randald Villegas Brenes <br>
 **Primary Email:** randald1991@gmail.com  <br>
-**secondary Email:** randaldvillegas@gmail.com  <br>
+**Secondary Email:** randaldvillegas@gmail.com  <br>
 **Nationality:** Costa Rica  <br>
 **Marital Status:** Soltero  <br>
 **Address:** San Carlos, Alajuela <br>
