@@ -20,10 +20,10 @@ C, JPA, Hibernate, Spring Boot, Angular, Dart, SQL, Linux, CSS, JavaScript, HTML
 
 ## Education
 
-**Primary School** - Escuela, Santa Rosa de Pocosol. 
-**High School** - Bachillerato por Madurez.
-**College** - TEC | Tecnológico de Costa Rica (Actualmente).
-**Other Institutions:** - INA 
+**Primary School** - Escuela, Santa Rosa de Pocosol. <br>
+**High School** - Bachillerato por Madurez. <br>
+**College** - TEC | Tecnológico de Costa Rica (Actualmente). <br>
+**Other Institutions:** - INA <br>
 
 
 ## Certificates
