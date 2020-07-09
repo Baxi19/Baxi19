@@ -6,7 +6,7 @@
 **Primary Email:** randald1991@gmail.com  <br>
 **Secondary Email:** randaldvillegas@gmail.com  <br>
 **Nationality:** Costa Rica  <br>
-**Marital Status:** Soltero  <br>
+**Marital Status:** Single  <br>
 **Address:** San Carlos, Alajuela <br>
 
 ## Skills
@@ -20,9 +20,9 @@ C, Spring Boot, Angular, Dart, SQL, Linux, Hibernate, CSS, JavaScript, HTML, Typ
 
 ## Education
 
-**Primary School** - Escuela, Santa Rosa de Pocosol. <br>
-**High School** - Bachillerato por Madurez. <br>
-**College** - TEC | Tecnológico de Costa Rica (Actualmente). <br>
+**Primary School** - Santa Rosa de Pocosol. <br>
+**High School** - CINDEA Santa Clara & Bachillerato por Madurez. <br>
+**College** - TEC | Tecnológico de Costa Rica (Currently Student). <br>
 **Other Institutions:** - INA <br>
 
 
@@ -42,5 +42,5 @@ C, Spring Boot, Angular, Dart, SQL, Linux, Hibernate, CSS, JavaScript, HTML, Typ
 
 ## Languages
 
-**Español:** Nativo <br>
-**English:** Medio <br>
+**Spanish:** Native <br>
+**English:** Medium <br>
