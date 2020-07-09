@@ -1,17 +1,46 @@
-### Hi there 👋
+# Curriculum Vitae
+
+## Personal Details
+
+**Name:** Randald Villegas Brenes <br>
+**Primary Email:** randald1991@gmail.com  <br>
+**secondary Email:** randaldvillegas@gmail.com  <br>
+**Nationality:** Costa Rica  <br>
+**Marital Status:** Single  <br>
+**Address:** San Carlos, Alajuela <br>
+
+## Skills
+
+**Medium level** <br>
+Java, SQL Server, Git, PostgreSQL, Python, C#.
+
+**Beginner level** <br>
+C, JPA, Hibernate, Spring Boot, Angular, Dart, SQL, Linux, CSS, JavaScript, HTML, Lenguaje R, Node, Vaddin, Arduino, Racket, Prolog.
 
 
-<!--
-**Baxi19/Baxi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
 
-Here are some ideas to get you started:
+**Primary School** - Escuela, Santa Rosa de Pocosol. 
+**High School** - Bachillerato por Madurez.
+**College** - TEC | Tecnológico de Costa Rica (Actualmente).
+**Other Institutions:** - INA 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Certificates
+
+- Ingles Conversacional para el Sector Comercial.
+- Introducción a la Computación.
+- III Ciclo de Educación General Básica.
+- Bachiller de Educación Diversificada.
+
+
+## Driver's License
+
+- B1
+- A3
+
+
+## Languages
+
+**Español:** Nativo <br>
+**English:** Medio <br>
