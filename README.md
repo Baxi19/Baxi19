@@ -15,7 +15,7 @@
 Java, SQL Server, Git, PostgreSQL, Python, C#, JPA, Docker.
 
 **Beginner level** <br>
-C, Spring Boot, Angular, Dart, SQL, Linux, Hibernate, CSS, JavaScript, HTML, TypeScript, Lenguaje R, Node, Vaddin, Arduino, Racket, Prolog, TSQL, Assembly.
+C, Spring, Angular, Dart, SQL, Linux, Hibernate, CSS, JavaScript, HTML, TypeScript, Lenguaje R, Node, Vaddin, Arduino, Racket, Prolog, TSQL, Assembly, Flutter.
 
 
 ## Education
