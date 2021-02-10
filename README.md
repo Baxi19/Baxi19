@@ -28,7 +28,8 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 
-[![Linkedin: randald-villegas-brenes-114007206](https://img.shields.io/badge/-randald-villegas-brenes-114007206-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/randald-villegas-brenes-114007206/)](https://www.linkedin.com/in/randald-villegas-brenes-114007206/)
+[![Linkedin: randald-villegas-brenes-114007206](https://img.shields.io/badge/-randald-villegas-brenes-114007206-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randald-villegas-brenes-114007206/)]
+(https://www.linkedin.com/in/randald-villegas-brenes-114007206/)
 [![GitHub Baxi19](https://img.shields.io/github/followers/Baxi19?label=follow&style=social)](https://github.com/Baxi19)
 
 
