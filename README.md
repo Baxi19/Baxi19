@@ -1,46 +1,59 @@
-# Curriculum Vitae
+## Hola, I'm Randald Villegas 👋
 
-## Personal Details
+<a href="https://www.linkedin.com/in/randald-villegas-brenes-114007206/">
+  <img align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Baxi19">
+  <img align="left" alt="Randald's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/Baxi19">
+  <img align="left" alt="Randald's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/randald_villegas_/">
+  <img align="left" alt="Randald's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/randald.villegasbrenes">
+  <img align="left" alt="Randald's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-**Name:** Randald Villegas Brenes <br>
-**Primary Email:** randald1991@gmail.com  <br>
-**Secondary Email:** randaldvillegas@gmail.com  <br>
-**Nationality:** Costa Rica  <br>
-**Marital Status:** Single  <br>
-**Address:** San Carlos, Alajuela <br>
-
-## Skills
-
-**Medium level** <br>
-Java, SQL Server, Git, PostgreSQL, Python, C#, JPA, Docker.
-
-**Beginner level** <br>
-C, Spring, Angular, Dart, SQL, Linux, Hibernate, CSS, JavaScript, HTML, TypeScript, Lenguaje R, Node, Vaddin, Arduino, Racket, Prolog, TSQL, Assembly, Flutter.
-
-
-## Education
-
-**Primary School** - Santa Rosa de Pocosol. <br>
-**High School** - CINDEA Santa Clara & Bachillerato por Madurez. <br>
-**College** - TEC | Tecnológico de Costa Rica (Currently Student). <br>
-**Other Institutions:** - INA <br>
+<br/>
+<br/>
 
 
-## Certificates
 
-- Ingles Conversacional para el Sector Comercial.
-- Introducción a la Computación.
-- III Ciclo de Educación General Básica.
-- Bachiller de Educación Diversificada.
-
-
-## Driver's License
-
-- B1
-- A3
+- 🔭 I’m currently student at [TEC](https://www.tec.ac.cr/).
+- 💬 I’m currently learning more about Web, Mobile and IA.
+- 🤔 I am looking for a company to carry out the professional practice.
+- 📫 How to reach me: [Telegram](https://t.me/Baxi19) , Gmail: randald1991@gmail.com 
+- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 
-## Languages
+[![Linkedin: randald-villegas-brenes](https://img.shields.io/badge/-randald-villegas-brenes-114007206-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/randald-villegas-brenes-114007206/)](https://www.linkedin.com/in/randald-villegas-brenes-114007206/)
+[![GitHub Baxi19](https://img.shields.io/github/followers/Baxi19?label=follow&style=social)](https://github.com/Baxi19)
 
-**Spanish:** Native <br>
-**English:** Medium <br>
+
+**Languages and Tools:**  :octocat:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>   
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
+
+<a href="https://github.com/Baxi19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Baxi19">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=light&line_height=27" alt="Baxi19's github stats"/>
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
