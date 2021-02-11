@@ -1,6 +1,6 @@
 ## Hola, I'm Randald Villegas 👋
 
-<a href="https://www.linkedin.com/in/randald-villegas-brenes-114007206/">
+<a href="www.linkedin.com/in/randald-vb">
   <img align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Baxi19">
