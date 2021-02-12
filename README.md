@@ -30,7 +30,7 @@
 
 [![Linkedin: randald-vb](https://img.shields.io/badge/-Randald-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randald-vb/)](https://www.linkedin.com/in/randald-vb/)
 [![GitHub Baxi19](https://img.shields.io/github/followers/Baxi19?label=follow&style=social)](https://github.com/Baxi19)
-
+[![GitHub Stars](https://img.shields.io/github/stars/Baxi19?style=social)](https://github.com/Baxi19)
 
 :fire: **Languages and Tools:**  :octocat:
 
