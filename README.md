@@ -28,6 +28,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 
+[![Linkedin: randald-vb](https://img.shields.io/badge/-Randald-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randald-vb/)](https://www.linkedin.com/in/randald-vb/)
 [![GitHub Baxi19](https://img.shields.io/github/followers/Baxi19?label=follow&style=social)](https://github.com/Baxi19)
 
 
