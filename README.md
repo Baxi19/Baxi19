@@ -21,11 +21,11 @@
 
 
 
-- 🔭 I’m currently student at [TEC](https://www.tec.ac.cr/).
-- 💬 I’m currently learning more about Web, Mobile and IA.
-- 🤔 I am looking for a company to do an internship.
-- 📫 How to reach me: [Telegram](https://t.me/Baxi19) , Gmail: randald1991@gmail.com 
-- ⚡:notes: Fun fact: I spend almost 12 hours listening songs everyday.
+- :computer: I’m currently student at [TEC](https://www.tec.ac.cr/).
+- :books: I’m currently learning more about Web, Mobile and IA.
+- :office: I am looking for a company to do an internship.
+- :mailbox: How to reach me: [Telegram](https://t.me/Baxi19) , Gmail: randald1991@gmail.com 
+- :notes: Fun fact: I spend almost 12 hours listening songs everyday.
 
 
 [![Linkedin: randald-vb](https://img.shields.io/badge/-Randald-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randald-vb/)](https://www.linkedin.com/in/randald-vb/)
