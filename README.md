@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently student at [TEC](https://www.tec.ac.cr/).
 - 💬 I’m currently learning more about Web, Mobile and IA.
-- 🤔 I am looking for a company to carry out the professional practice.
+- 🤔 I am looking for a company to do an internship.
 - 📫 How to reach me: [Telegram](https://t.me/Baxi19) , Gmail: randald1991@gmail.com 
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
