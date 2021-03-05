@@ -20,7 +20,6 @@
 <br/>
 
 
-
 - :computer: I’m currently student at [TEC](https://www.tec.ac.cr/).
 - :books: I’m currently learning more about Web, Mobile and IA.
 - :office: I am looking for a company to do an internship.
