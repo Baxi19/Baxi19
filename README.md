@@ -1,4 +1,4 @@
-## Hola, I'm Randald Villegas 👋
+## Hi,👋 I'm Randald Villegas :octocat: 
 
 <a href="https://www.linkedin.com/in/randald-vb/">
   <img align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -53,7 +53,7 @@
 </a>
 
 <a href="https://github.com/Baxi19">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=light&line_height=27" alt="Baxi19's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=dark&line_height=27" alt="Baxi19's github stats"/>
 </a>
 
 <div align="center">
