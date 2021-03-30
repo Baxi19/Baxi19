@@ -20,7 +20,7 @@
 <br/>
 
 - :computer: I’m currently student at [TEC](https://www.tec.ac.cr/).
-- :books: I’m currently learning more about Web, Mobile and IA.
+- :books: I’m currently learning more about Web, Mobile and AI.
 - :office: I am looking for a company to do an internship.
 - :mailbox: How to reach me: [Telegram](https://t.me/Baxi19) , Gmail: randald1991@gmail.com 
 - :notes: Fun fact: I spend almost 12 hours listening songs everyday.
