@@ -56,6 +56,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=light&line_height=27" alt="Baxi19's github stats"/>
 </a>
 
+![Baxi19's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=radical)
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
