@@ -49,7 +49,7 @@
 
 
 <a href="https://github.com/Baxi19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&hide=Assembly,C" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&hide=Assembly,C" />
 </a>
 
 <a href="https://github.com/Baxi19">
