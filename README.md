@@ -1,5 +1,4 @@
 ## Hi,👋 I'm Randald Villegas :octocat: 
-
 <a href="https://www.linkedin.com/in/randald-vb/">
   <img align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
