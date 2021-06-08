@@ -48,7 +48,7 @@
 
 
 <a href="https://github.com/Baxi19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=radical&hide=Assembly,C,Jupyter" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=radical&hide=Assembly,C,Jupyter Notebook" />
 </a>
 
 <a href="https://github.com/Baxi19">
