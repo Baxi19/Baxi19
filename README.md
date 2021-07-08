@@ -55,12 +55,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=radical" alt="Baxi19's github stats"/>
 </a>
 
-<a href="https://github.com/Baxi19">
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Baxi19" alt="Baxi19's github stats"/>
-</a>
-
-
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
