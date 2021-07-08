@@ -55,7 +55,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=radical" alt="Baxi19's github stats"/>
 </a>
 
-[![Baxi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Baxi19)](https://github.com/Baxi19/github-readme-stats)
+[![Baxi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Baxi19)](https://github.com/Baxi19/github-readme-stats)
 
 
 <div align="center">
