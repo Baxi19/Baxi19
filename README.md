@@ -53,7 +53,7 @@
 
 
 <a href="https://github.com/Baxi19">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Baxi19&theme=ads-juicy-fresh" alt="Baxi19's Streak"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Baxi19&theme=dark" alt="Baxi19's Streak"/>
 </a>
 
 <a href="https://github.com/Baxi19">
