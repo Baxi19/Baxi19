@@ -47,14 +47,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 
+<br/>
 <a href="https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=radical">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=chartreuse-dark" alt="Baxi19's github stats"/>
 </a>
 
+<br/>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Baxi19&theme=radical">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Baxi19&theme=chartreuse-dark" alt="Baxi19's Streak"/>
 </a>
 
+<br/>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=radical&hide=Assembly,C,Jupyter Notebook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=chartreuse-dark&hide=Assembly,C,Jupyter Notebook" />
 </a>
