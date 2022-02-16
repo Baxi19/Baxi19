@@ -1,10 +1,7 @@
 ## Hi,👋 I'm Randald Villegas :octocat: 
-.filter-grey{
-  filter: invert(73%) sepia(11%) saturate(5%) hue-rotate(358deg) brightness(93%) contrast(86%);
-}
 
 <a href="https://www.linkedin.com/in/randald-vb/">
-  <img class="filter-grey" align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img class="filter: invert(73%) sepia(11%) saturate(5%) hue-rotate(358deg) brightness(93%) contrast(86%)" align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Baxi19">
   <img align="left" alt="Randald's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
