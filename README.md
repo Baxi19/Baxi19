@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flutter+Developer;Addicted+To+Coding!;Nice+To+Meet+You...!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flutter+Developer;Addicted+To+Coding!;Nice+To+Meet+You...!&font=Fira%20Code&center=true&width=380&height=60">
 </h1>
 
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a>Randald Villegas! :octocat:</a>
