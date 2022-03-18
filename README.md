@@ -1,39 +1,40 @@
-<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a>Randald Villegas! :octocat:</a></h1>
 
-<p align="center">
+
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flutter+Developer;Addicted+To+Coding!;Nice+To+Meet+You...!&font=Fira%20Code&center=true&width=380&height=50">
-</p>
+</h1>
 
-<div align="center">
+<h2 align="left"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a>Randald Villegas! :octocat:</a></h2>
+
 <a href="https://www.linkedin.com/in/randald-vb/">
-  <img align="center" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Baxi19">
-  <img align="center" alt="Randald's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Randald's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/Baxi19">
-  <img align="center" alt="Randald's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Randald's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/randald_villegas_/">
-  <img align="center" alt="Randald's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Randald's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/randald.villegasbrenes">
-  <img align="center" alt="Randald's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Randald's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-</div>
+
 
   
   
 <br/>
 <br/>
-<div >
-  <ul>
-    <li>:computer: I’m Computer Engineer</li>
-    <li>:books: I’m currently learning more about Web, Mobile and AI</li>
-    <li>:mailbox: How to reach me: [Telegram](https://t.me/Baxi19) , Gmail: randald1991@gmail.com</li>
-    <li>:notes: Fun fact: I spend almost 12 hours listening songs everyday</li>
-  </ul>
-</div>
+
+<ul>
+  <li>:computer: I’m Computer Engineer</li>
+  <li>:books: I’m currently learning more about Web, Mobile and AI</li>
+  <li>:mailbox: How to reach me: [Telegram](https://t.me/Baxi19) , Gmail: randald1991@gmail.com</li>
+  <li>:notes: Fun fact: I spend almost 12 hours listening songs everyday</li>
+</ul>
+
 
 [![Linkedin: randald-vb](https://img.shields.io/badge/-Randald-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randald-vb/)](https://www.linkedin.com/in/randald-vb/)
 [![GitHub Baxi19](https://img.shields.io/github/followers/Baxi19?label=follow&style=social)](https://github.com/Baxi19)
