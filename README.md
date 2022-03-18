@@ -1,22 +1,22 @@
-<h1 align="left"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a>Randald Villegas! :octocat:</a></h1>
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a>Randald Villegas! :octocat:</a></h1>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flutter+Developer;Addicted+To+Coding!;Nice+To+Meet+You...!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-<a href="https://www.linkedin.com/in/randald-vb/">
+<a align="center" href="https://www.linkedin.com/in/randald-vb/">
   <img align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Baxi19">
+<a align="center" href="https://github.com/Baxi19">
   <img align="left" alt="Randald's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/Baxi19">
+<a align="center" href="https://t.me/Baxi19">
   <img align="left" alt="Randald's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/randald_villegas_/">
+<a align="center" href="https://www.instagram.com/randald_villegas_/">
   <img align="left" alt="Randald's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/randald.villegasbrenes">
+<a align="center" href="https://www.facebook.com/randald.villegasbrenes">
   <img align="left" alt="Randald's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
