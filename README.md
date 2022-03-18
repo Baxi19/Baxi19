@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flutter+Developer;Addicted+To+Coding!;Nice+To+Meet+You...!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-
+<div align="center">
 <a href="https://www.linkedin.com/in/randald-vb/">
   <img align="center" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -20,17 +20,19 @@
 <a href="https://www.facebook.com/randald.villegasbrenes">
   <img align="center" alt="Randald's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-  
+</div>
 
   
   
 <br/>
 <br/>
 <div align="center">
-- :computer: I’m Computer Engineer.
-- :books: I’m currently learning more about Web, Mobile and AI.
-- :mailbox: How to reach me: [Telegram](https://t.me/Baxi19) , Gmail: randald1991@gmail.com 
-- :notes: Fun fact: I spend almost 12 hours listening songs everyday.
+  <ul>
+    <li>:computer: I’m Computer Engineer</li>
+    <li>:books: I’m currently learning more about Web, Mobile and AI</li>
+    <li>:mailbox: How to reach me: [Telegram](https://t.me/Baxi19) , Gmail: randald1991@gmail.com</li>
+    <li>:notes: Fun fact: I spend almost 12 hours listening songs everyday</li>
+  </ul>
 </div>
 
 [![Linkedin: randald-vb](https://img.shields.io/badge/-Randald-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randald-vb/)](https://www.linkedin.com/in/randald-vb/)
