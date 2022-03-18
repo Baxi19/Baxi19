@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flutter+Developer;Addicted+To+Coding!;Nice+To+Meet+You...!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-<div style="text-align:center">
+<div align="center">
 <a align="center" href="https://www.linkedin.com/in/randald-vb/">
   <img align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
