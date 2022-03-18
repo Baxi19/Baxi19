@@ -26,7 +26,7 @@
   
 <br/>
 <br/>
-<div align="center">
+<div >
   <ul>
     <li>:computer: I’m Computer Engineer</li>
     <li>:books: I’m currently learning more about Web, Mobile and AI</li>
