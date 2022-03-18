@@ -5,21 +5,21 @@
 </p>
 
 <div align="center">
-<a align="center" href="https://www.linkedin.com/in/randald-vb/">
-  <img align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Baxi19">
-  <img align="left" alt="Randald's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/Baxi19">
-  <img align="left" alt="Randald's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/randald_villegas_/">
-  <img align="left" alt="Randald's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/randald.villegasbrenes">
-  <img align="left" alt="Randald's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+  <a href="https://www.linkedin.com/in/randald-vb/">
+    <img align="center" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/Baxi19">
+    <img align="center" alt="Randald's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  <a href="https://t.me/Baxi19">
+    <img align="center" alt="Randald's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
+  <a href="https://www.instagram.com/randald_villegas_/">
+    <img align="center" alt="Randald's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://www.facebook.com/randald.villegasbrenes">
+    <img align="center" alt="Randald's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
 </div>
   
   
