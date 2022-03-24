@@ -30,9 +30,10 @@
 
 <ul>
   <li>:computer: I’m Computer Engineer</li>
+  <li>:fire: I’m looking for help with Framework collaborations</>
   <li>:books: I’m currently learning more about Web, Mobile and AI</li>
   <li>:mailbox: How to reach me: <a href="https://t.me/Baxi19">Telegram</a>, <a href = "mailto: randald1991@gmail.com">Email</a></li>
-  <li>:notes: Fun fact: I spend almost 12 hours listening songs everyday</li>
+  <li>:notes: I spend almost 12 hours listening songs everyday</li>
 </ul>
 
 
