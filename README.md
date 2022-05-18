@@ -7,7 +7,7 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I'm <a>Randald Villegas! :octocat:</a>
 
 <a href="https://www.linkedin.com/in/randald-vb/">
-  <img class="backgroundColor: #808080" align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Baxi19">
   <img align="left" alt="Randald's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
