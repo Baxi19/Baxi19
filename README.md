@@ -79,12 +79,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=chartreuse-dark&hide=Assembly,C,Jupyter Notebook" />
 </a>
 
-<p align="center">
-  <img src="https://github.com/Baxi19/Baxi19/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
 
 <div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
