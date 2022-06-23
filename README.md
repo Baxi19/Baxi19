@@ -69,17 +69,17 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=chartreuse-dark" alt="Baxi19's github stats"/>
 </a>
 
-<br/>
+<br/><br/>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Baxi19&theme=radical">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Baxi19&theme=chartreuse-dark" alt="Baxi19's Streak"/>
 </a>
 
-<br/>
+<br/><br/>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=radical&hide=Assembly,C,Jupyter Notebook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=chartreuse-dark&hide=Assembly,C,Jupyter Notebook" />
 </a>
 
-
+<br/>
 <div align="center">
-### Show some ❤️ by starring some of the repositories!
+  Show some ❤️ by starring some of the repositories!
 </div>
