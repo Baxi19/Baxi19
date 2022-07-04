@@ -7,24 +7,23 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">, I'm <a>Randald Villegas! :octocat:</a>
 
 <a href="https://www.linkedin.com/in/randald-vb/">
-  <img align="left" alt="Randald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Randald's Linkdein" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 <a href="https://github.com/Baxi19">
-  <img align="left" alt="Randald's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Randald's Github" width="22px" src="https://www.svgrepo.com/show/349375/github.svg" />
 </a>
 <a href="https://t.me/Baxi19">
-  <img align="left" alt="Randald's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Randald's Telegram" width="22px" src="https://www.svgrepo.com/show/354443/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/randald_villegas_/">
-  <img align="left" alt="Randald's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Randald's Instagram" width="22px" src="https://www.svgrepo.com/show/157806/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/randald.villegasbrenes">
-  <img align="left" alt="Randald's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Randald's Facebook" width="22px" src="https://www.svgrepo.com/show/157818/facebook.svg" />
 </a>
 
+<img src="https://raw.githubusercontent.com/Baxi19/Baxi19/output/github-contribution-grid-snake.svg" alt="snake">
 
-  
-  
 <br/>
 <br/>
 
