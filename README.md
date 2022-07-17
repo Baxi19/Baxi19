@@ -40,6 +40,8 @@
 [![GitHub Baxi19](https://img.shields.io/github/followers/Baxi19?label=follow&style=social)](https://github.com/Baxi19)
 [![GitHub Stars](https://img.shields.io/github/stars/Baxi19?style=social)](https://github.com/Baxi19)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baxi19" alt="baxi19" /></a> </p>
+
 :fire: **Languages and Tools:**  :octocat:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
