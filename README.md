@@ -75,9 +75,10 @@
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Baxi19&theme=chartreuse-dark" alt="Baxi19's Streak"/>
 </a>
 
+
 <br/><br/>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=radical&hide=Assembly,C,Jupyter Notebook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=chartreuse-dark&hide=Assembly,C,Jupyter Notebook" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=radical&hide=Assembly,C,Jupyter%20Notebook">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=chartreuse-dark&hide=Assembly,C,Jupyter%20Notebook" alt="Baxi19's Streak"/>
 </a>
 
 <br/>
