@@ -78,7 +78,7 @@
 
 <br/><br/>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=radical&hide=Assembly,C,Jupyter%20Notebook">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=radical&hide=Assembly,C,Jupyter%20Notebook" alt="Baxi19's Streak"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=6&layout=compact&theme=radical&hide=HTML,ShaderLab,CSS,SCSS,Assembly,C,Jupyter%20Notebook" alt="Baxi19's Streak"/>
 </a>
 
 <br/>
