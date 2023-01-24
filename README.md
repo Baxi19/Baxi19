@@ -67,18 +67,18 @@
 
 <br/>
 <a href="https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=radical">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=chartreuse-dark" alt="Baxi19's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxi19&show_icons=true&theme=radical" alt="Baxi19's github stats"/>
 </a>
 
 <br/><br/>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Baxi19&theme=radical">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Baxi19&theme=chartreuse-dark" alt="Baxi19's Streak"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Baxi19&theme=radical" alt="Baxi19's Streak"/>
 </a>
 
 
 <br/><br/>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=radical&hide=Assembly,C,Jupyter%20Notebook">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=chartreuse-dark&hide=Assembly,C,Jupyter%20Notebook" alt="Baxi19's Streak"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxi19&langs_count=10&layout=compact&theme=radical&hide=Assembly,C,Jupyter%20Notebook" alt="Baxi19's Streak"/>
 </a>
 
 <br/>
