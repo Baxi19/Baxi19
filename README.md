@@ -47,7 +47,7 @@
 [![GitHub Baxi19](https://img.shields.io/github/followers/Baxi19?label=follow&style=social)](https://github.com/Baxi19)
 [![GitHub Stars](https://img.shields.io/github/stars/Baxi19?style=social)](https://github.com/Baxi19)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baxi19" alt="baxi19" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baxi19&theme=darkhub&column=3&margin-w=15&margin-h=15&no-bg=true" alt="baxi19" /></a> </p>
 
 :fire: **Languages and Tools:**  :octocat:
 
